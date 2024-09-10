@@ -47,5 +47,4 @@ txt.
 ## For Improvements:
      For improvements, suggestions, and 
      constructive feedback, I am always happy to 
-     hear from you. Enjoy and good 
-     luck!
+     hear from you. Enjoy and good luck!
